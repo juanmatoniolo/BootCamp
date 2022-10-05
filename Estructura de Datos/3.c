@@ -29,10 +29,10 @@ int sumar_lista(int *lista, int stop)
     int cont = 0;
     int aux = 0;
 
-    if (lista != stop)
+    if (lista != NULL)
     {
-        lista + cont = cont;
-        
+        // lista = cont + lista;
+        printf("%d", lista);
         lista++;
         sumar_lista(lista, stop);
     }
