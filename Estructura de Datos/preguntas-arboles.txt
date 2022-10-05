@@ -1,0 +1,56 @@
+1. ¿Qué nodo es la raíz?
+rta: el nodo a
+
+2. ¿Cuántos caminos diferentes de longitud tres hay?
+    10
+
+3. ¿Es un camino la sucesión de nodos HGFBACI?
+    si
+
+4. ¿Qué nodos son los ancestros de K?
+    Los nodos J-C-A
+
+5. ¿Qué nodos son los ancestros propios de N?
+    los nodos K-J-C-A
+
+6. ¿Qué nodos son los descendientes propios de M?
+    No tiene
+
+7. ¿Qué nodos son las hojas?
+    Los nodos H-L-M-P-¿Qué
+
+8. ¿Cuál es la altura del nodo C?
+    Nivel 1
+
+9. ¿Cuál es la altura del árbol?
+Tiene 4 niveles
+
+10. ¿Cuál es la profundidad del nodo C?
+    la profundidas es 1
+
+11. ¿Cuál es el hermano a la derecha de D?
+    El nodo E
+
+12. ¿Es I hermano a la derecha de F?
+    Si, F se encuentra a la derehca de I
+
+13. ¿Está F a la izquierda de J?
+    A la izquierda 
+
+14. ¿Está L a la derecha de J?
+    NO
+
+15. ¿Qué nodos están a la izquierda y a la derecha de J?
+A la izquierda de J se encuentran: F-I 
+a la derecha s eencuentra N
+
+16. ¿Cuántos hijos tiene A?
+    Tiene 4 
+
+17. Listar los nodos del árbol en preorden,postorden e inorden
+preorder seria algo asi: A-B-F-G-H-C-I-J-K-L-M-D-E-N-P-Q 
+postorden : B-F-G-H-C-I-L-M-K-J-D-P-Q-N-E-A 
+inorder: h-g-f-b-l-k-m-j-c-a d-p-q-n-e 
+
+
+
